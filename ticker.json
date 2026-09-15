@@ -1,7 +1,7 @@
 {
   "message": "خوش آمدید! {name}",
   "direction": "RIGHT",
-  "active": true,
+  "active": false,
   "expiry": 1789934399105,
-  "lastUpdated": 1789504868157
+  "lastUpdated": 1789504889730
 }
