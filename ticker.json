@@ -1,5 +1,7 @@
 {
-  "status": true,
-  "message": "خوش آمدید! نئی اپڈیٹ آ چکی ہے۔",
-  "expiry_date": "2026-12-31"
+  "message": "خوش آمدید!",
+  "direction": "LEFT",
+  "active": true,
+  "expiry": 1789934399105,
+  "lastUpdated": 1789500294411
 }
